@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... arulvalananto@gmail.com 
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... 
-- 🚀 Skillset: ... React.js, Firebase, JavaScript, MaterialUI, Bootstrap, HTML, CSS,
 -->
