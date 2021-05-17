@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... Nothing
 - 🤗 2021 Goals: ... To get my desirable job.
-- 🚀 Skillsets: ... React.js, Node.js, JavaScript, MongoDB, Python, Firebase, HTML, CSS, Sass, Bootstrap, 
+- 🚀 Skillsets: ... React.js, Node.js, JavaScript, MongoDB, Python, Firebase, HTML, CSS, Sass, Bootstrap
