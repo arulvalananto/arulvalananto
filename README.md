@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at ... CodingSpaceIndia
 - 💻 I’m currently working on ... MERN Stack Development
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ... React Native and Java
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Web Development, Games and Books.
