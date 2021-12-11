@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... Nothing
 - 🤗 2021 Goals: ... To get a good job.
-- 🚀 Skillsets: ... React.js, Node.js, JavaScript, MongoDB, React Native, Redux, Python, Firebase, TailwindCSS, HTML, CSS, Sass, Bootstrap
+- 🚀 Skillsets: ... React.js, React Native, Redux, Node.js, JavaScript, MongoDB, Django, Python, Firebase, TailwindCSS, HTML, CSS, Sass, Bootstrap
