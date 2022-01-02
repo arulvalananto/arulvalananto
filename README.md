@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... arulvalananto@gmail.com 
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... Nothing
-- 🤗 2021 Goals: ... To get a good job.
+- 🤗 2022 Goals: ... To get a good job.
 - 🚀 Skillsets: ... React.js, React Native, Redux, Node.js, JavaScript, MongoDB, Django, Python, Firebase, TailwindCSS, HTML, CSS, Sass, Bootstrap
