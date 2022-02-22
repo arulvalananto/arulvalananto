@@ -1,4 +1,4 @@
-### Hi there 👋, I am a MERN Stack Developer.
+### Hi there 👋, I am a Full Stack Javascript Developer / Blockchain Developer.
 
 Here are some ideas to get you started:
 
