@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🤗 2022 Goals ... To be a good developer(who can code clean and efficient.
 - 🤖 Known programming languages ... Javascript, Python, Go
 - 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS
-- 🔙 Backend skillsets: ... Node.js, MongoDB
+- 🔙 Backend skillsets: ... Node.js, MongoDB, PostgresSQL
