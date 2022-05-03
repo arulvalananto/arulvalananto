@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at ... Agument India
-- 💻 I’m currently working on ... MERN Stack Development
+- 💻 I’m currently working on ... Full Stack JavaScript Development
 - 🌱 I’m currently learning ... Microservices, Dapps
 - 👯 I’m looking to collaborate on ... Web and Mobile application development
 - 🤔 I’m looking for help with ... 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact ... Nothing
 - 🤗 2022 Goals ... To complete list of my projects.
 - 🤖 Known programming languages ... Javascript, Python, Go
-- 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS
-- 🔙 Backend skillsets: ... Node.js, MongoDB, PostgresSQL
+- 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS, TypeScript, 
+- 🔙 Backend skillsets: ... Node.js, Django, MongoDB, PostgresSQL,
