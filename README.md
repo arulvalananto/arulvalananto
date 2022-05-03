@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... arulvalananto@gmail.com, arulvalananto@yahoo.com 
 - 😄 Pronouns ...  He/Him
 - ⚡ Fun fact ... Nothing
-- 🤗 2022 Goals ... To be a good developer(who can code clean and efficient.
+- 🤗 2022 Goals ... To complete list of my projects.
 - 🤖 Known programming languages ... Javascript, Python, Go
 - 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS
 - 🔙 Backend skillsets: ... Node.js, MongoDB, PostgresSQL
