@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact ... Nothing
 - 🤗 2022 Goals ... To complete list of my projects.
 - 🤖 Known programming languages ... Javascript, Python, Go
-- 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS, TypeScript, 
-- 🔙 Backend skillsets: ... Node.js, Django, MongoDB, PostgresSQL,
+- 🚀 Frontend skillsets: ... React.js, React Native, Redux, Firebase, HTML, CSS, SASS, Bootstrap, TailwindCSS, TypeScript, Angular
+- 🔙 Backend skillsets: ... Node.js, Django, MongoDB, PostgresSQL, MySQL
