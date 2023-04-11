@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Full Stack AWS Developer / Blockchain Developer.
+### Hi there 👋, I am a Full Stack AWS Developer
 
 Here are some ideas to get you started:
 
