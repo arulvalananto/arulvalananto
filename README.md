@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Full Stack AWS Developer
+### Hi there 👋, I am a Full Stack Developer
 
 Here are some ideas to get you started:
 
