@@ -1,6 +1,6 @@
 ### Hi there 👋, I am a Full Stack Developer
 
-![](https://miro.medium.com/v2/resize:fit:3840/1*bil55k1_gVH82KYeeX6X6Q.gif)
+<img src='https://miro.medium.com/v2/resize:fit:3840/1*bil55k1_gVH82KYeeX6X6Q.gif' alt='linkedin' width="100%" height='400'>
 
 Here's a snapshot of my professional profile:
 
