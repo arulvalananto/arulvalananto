@@ -4,14 +4,14 @@
 Here's a snapshot of my professional profile:
 
 - 🔭 Currently employed at: Augment India
-- 💻 Working on: Pacer Project
-- 🌱 Learning: Microservices
+- 💻 Working on: LookSuite
+- 🌱 Learning: System Design
 - 👯 Open to collaborate on: Web and Mobile application development
 - 💬 Ask me about: Web Development, Games, and Books
 - 📫 Reach me at: arulvalananto@gmail.com
 - 🤖 Proficient in programming languages: JavaScript, Python, TypeScript
-- 🚀 Frontend skills: React.js, Next.js, React Native, Angular
-- 🔙 Backend skills: Node.js, Django, MongoDB, PostgreSQL, MySQL, Redis
+- 🚀 Frontend skills: React.js, Next.js, Electron, React Native, Angular
+- 🔙 Backend skills: Node.js, Express.js, Fastify, FastAPI, MongoDB, PostgreSQL, MySQL, Redis, Django
 - 👨‍💻 Infrastructure: AWS
 
 <h3 align="left">Connect with me:</h3>
