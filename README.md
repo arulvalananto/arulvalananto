@@ -12,6 +12,7 @@ Here's a snapshot of my professional profile:
 - 🤖 Proficient in programming languages: JavaScript, Python, TypeScript
 - 🚀 Frontend skills: React.js, Next.js, Electron, React Native, Angular
 - 🔙 Backend skills: Node.js, Express.js, Fastify, FastAPI, MongoDB, PostgreSQL, MySQL, Redis, Django
+- 🚏 CI/CD skills: Docker, GitHub Actions
 - 👨‍💻 Infrastructure: AWS
 
 <h3 align="left">Connect with me:</h3>
