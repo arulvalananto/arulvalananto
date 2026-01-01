@@ -6,7 +6,7 @@ Here's a snapshot of my professional profile:
 - 🔭 Currently employed at: Augment India
 - 💻 Working on: LookSuite
 - 🌱 Learning: System Design
-- 👯 Open to collaborate on: Web and Mobile application development
+- 👯 Open to collaborate on: Web, desktop and Mobile application development
 - 💬 Ask me about: Web Development, Games, and Books
 - 📫 Reach me at: arulvalananto@gmail.com
 - 🤖 Proficient in programming languages: JavaScript, Python, TypeScript
