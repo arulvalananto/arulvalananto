@@ -13,7 +13,7 @@ Here's a snapshot of my professional profile:
 - 🚀 Frontend skills: React.js, Next.js, Electron, React Native, Angular
 - 🔙 Backend skills: Node.js, Express.js, Fastify, FastAPI, MongoDB, PostgreSQL, MySQL, Redis, Django
 - 🚏 CI/CD skills: Docker, GitHub Actions
-- 👨‍💻 Infrastructure: AWS
+- 👨‍💻 Infrastructure: AWS, GCP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
