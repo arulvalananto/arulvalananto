@@ -6,14 +6,15 @@ Here's a snapshot of my professional profile:
 - 🔭 Currently employed at: Augment India
 - 💻 Working on: LookSuite
 - 🌱 Learning: System Design
-- 👯 Open to collaborate on: Web, desktop and Mobile application development
+- 👯 Open to collaborate on: Web, desktop, and Mobile application development
 - 💬 Ask me about: Web Development, Games, and Books
 - 📫 Reach me at: arulvalananto@gmail.com
 - 🤖 Proficient in programming languages: JavaScript, Python, TypeScript
 - 🚀 Frontend skills: React.js, Next.js, Electron, React Native, Angular
 - 🔙 Backend skills: Node.js, Express.js, Fastify, FastAPI, MongoDB, PostgreSQL, MySQL, Redis, Django
-- 🚏 CI/CD skills: Docker, GitHub Actions
-- 👨‍💻 Infrastructure: AWS, GCP
+- 🚏 CI/CD skills: Docker, GitHub Actions, 
+- 👨‍💻 Infrastructure skills: AWS, GCP, Kubernetes, Terraform
+- 𝌮 Certificates: AWS Solution Architect Associate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
