@@ -11,7 +11,7 @@ Here's a snapshot of my professional profile:
 - 📫 Reach me at: arulvalananto@gmail.com
 - 🤖 Proficient in programming languages: JavaScript, Python, TypeScript
 - 🚀 Frontend skills: React.js, Next.js, Electron, React Native, Angular
-- 🔙 Backend skills: Node.js, Express.js, Fastify, FastAPI, MongoDB, PostgreSQL, MySQL, Redis, Django
+- 🔙 Backend skills: Node.js, Deno, Fastify, FastAPI, Express.js, MongoDB, PostgreSQL, MySQL, Redis, Django
 - 🚏 CI/CD skills: Docker, GitHub Actions, 
 - 👨‍💻 Infrastructure skills: AWS, GCP, Kubernetes, Terraform
 - 𝌮 Certificates: AWS Solution Architect Associate
